@@ -3,5 +3,6 @@ int main(void)
 {
    int n = sizeof(int *);
    printf("%d",n);
-    return 0;
+   printf("git测试添加语句"); 
+   return 0;
 }
