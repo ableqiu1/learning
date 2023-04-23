@@ -4,5 +4,6 @@ int main(void)
    int n = sizeof(int *);
    printf("%d",n);
    printf("test1 add the line");
-    return 0;
+   printf("test1 add the second line"); 
+   return 0;
 }
